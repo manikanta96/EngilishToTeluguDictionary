@@ -1,2 +1,34 @@
 s.no,english,telugu
-1,compiler,program lo ni instruction nu mariyu statements nu machine language lo marchuthundhi.
+1,compiler,program lo ni instruction nu mariyu statements nu machine language lo marchuthundi.
+2,position,"index = 0,position=index+1;"
+3,index,index will start  with 0
+4,interpreter,program anedhi oka line tharuvatha inko line excute avvuthundhi
+5,error,edhi ayyina issue vasthes adhe user ki chepputhundi
+6,variable,oka value pettukodaniki unique name isthunnam
+7,return,oka value akkada ayyithe function call chesthunnam akkada ki pampisthunnam
+8,asprintf(),enni number of characters store ayyindho return chestundhi
+9,sprintf(),
+10,malloc(),specify chesina size ki block of memory ni run time lo  isthundi
+11,realloc(),mundhu create chesina memory size ni marchukodaniki
+12,free(),memory anthata ni empty chesthundi
+13,assembler,asembler language program ni machine languaga lo ki marchuthundhi
+14,fetch,anni instrunction fetch chesukoni tharuvatha execute chesthundhi
+15,debugger,step by step testing
+16,perror,stderr consloe ki error ni string formate lo pamputhundhi
+17,seek-set,file first postion
+18,ofset,limit
+19,sbark,
+20,fseek(),ichcjna limit lo unna data vasthundhi
+21,rewind(),pointer first postion ki vasthundhi
+24,fread(),file lo ni data ni read chestundhi
+25,fwrite(),file lo ni data ni fill chestundhi
+26,approach,
+27,translate,
+28,static,
+29,dynamic,
+30,type,
+31,declatation,
+32,arguments,
+33,parsing,
+,preprocessing,
+,abstract,
