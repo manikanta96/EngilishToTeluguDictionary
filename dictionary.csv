@@ -26,9 +26,11 @@ s.no,english,telugu
 27,translate,
 28,static,staic variable create chesthe program moththam use cheyyuchchu
 29,dynamic,
-30,type,
-31,declatation,
-32,arguments,
+30,type,a type data ani chepthundhi
+31,declatation,alanti type of ani chepthundhi
+32,arguments,program lo ni oka function nunchi inko function ki values pamputhundhi
 33,parsing,
-,preprocessing,
+,preprocessing,input ni program lo ni process chesi output isthundi.
 ,abstract,
+fgets(),edhi line of string ni isthundi
+fputs(),
